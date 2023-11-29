@@ -6,7 +6,7 @@
 // Created on: Sep 2020
 // This is the Phaser3 configuration file
 
-import SplashScene from "./splashScene.js";
+import SplashScesne from "./splashScene.js";
 import MenuScene from "./menuScene.js";
 import GameScene from "./gameScene.js";
 
